@@ -10,7 +10,7 @@ function loadBook (filename, displayName){
     document.getElementById('leastUsed').innerHTML = ''
 
     // fetch the book
-    fetch('https://arminmowapi.herokuapp.com/books/' + filename)
+    fetch('books/' + filename)
         .then(res=>res.text())
         .then(json=> {
 
