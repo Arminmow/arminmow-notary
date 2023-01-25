@@ -2,6 +2,6 @@
 
 Not responsive, only desktop
 
-https://arminmow-notary.herokuapp.com/
+https://arminmow-notary.onrender.com
 
 If not working, use vpn
